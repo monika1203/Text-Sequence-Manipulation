@@ -1,15 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Oct 23 16:25:39 2019
 
-@author: monik
-"""
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Oct 15 16:08:39 2019
-
-@author: monik
-"""
 
 import sys
 import re
