@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Oct 18 17:36:54 2019
-
-@author: monik
-"""
 
 import requests
 import json
